@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GitHublearning/static/css/main.1162c838.css",
+    "main.js": "/GitHublearning/static/js/main.5b5dff50.js",
+    "static/js/787.046cc71e.chunk.js": "/GitHublearning/static/js/787.046cc71e.chunk.js",
+    "index.html": "/GitHublearning/index.html",
+    "main.1162c838.css.map": "/GitHublearning/static/css/main.1162c838.css.map",
+    "main.5b5dff50.js.map": "/GitHublearning/static/js/main.5b5dff50.js.map",
+    "787.046cc71e.chunk.js.map": "/GitHublearning/static/js/787.046cc71e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1162c838.css",
+    "static/js/main.5b5dff50.js"
+  ]
+}
